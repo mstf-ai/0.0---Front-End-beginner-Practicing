@@ -1,3 +1,1 @@
-# Front-End beginner practicing
-
-> ### practicing with real projects
+https://roadmap.sh/projects/single-page-cv
