@@ -1,1 +1,1 @@
-https://roadmap.sh/projects/single-page-cv
+https://github.com/mstf-ai/0.0---Front-End-beginner-Practicing/tree/main/0.1-HTML%20practicing/0.1.0%20-%20single-page%20CV
